@@ -36,6 +36,7 @@
           },
           "configurations": {
             "production": {
+	      "baseHref": "/russcfi.github.io/",
               "budgets": [
                 {
                   "type": "initial",
@@ -92,6 +93,9 @@
               "src/styles.scss"
             ]
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
