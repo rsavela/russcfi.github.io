@@ -17,12 +17,12 @@ cv:
       username: rsavela
   custom_connections:
   sections:
-    overview:
+    Overview:
       - Senior AI/ML and Cloud Architect with 15+ years of experience advising Fortune 500 customers, driving
         large-scale technology transformation. Proven track record of supporting eight-figure revenue impact through strategic
         technical leadership, AI/ML innovation, and secure, scalable architectures. Trusted advisor to executive stakeholders
         with deep expertise in cloud-native systems and enterprise modernization.
-    experience:
+    Experience:
       - company: TD SYNNEX
         position: Field Solutions Architect
         date: 
@@ -68,7 +68,7 @@ cv:
             reducing deployment times by 20-30%.
          - Implemented performance tuning for Oracle RAC and clustered systems, routinely improving throughput by 30-50%.
          - Provided pre-sales technical leadership for migration and modernization projects, securing multimillion-dollar contracts.
-    education:
+    Education:
       - institution: Western Governors University
         area: Computer Science
         degree: MS
@@ -91,7 +91,7 @@ cv:
           - 'Summa Cum Laude'
           - 'GPA: 4.0/4.0'
 
-    skills:
+    Skills:
       - label: Programming Languages
         details: Python, C/C++, BASH, SQL, Java, JavaScript
       - label: AI/ML Tools
@@ -102,7 +102,7 @@ cv:
         details:  AWS, GCP, Azure, Kubernetes, Terraform, CloudFormation, CDK, Ansible, OpenShift
       - label: DevOps Tools
         details: Git, GitHub, GitLab, GitHub Actions, CodePipeline, Jenkins, Grafana, Docker
-    projects:
+    Projects:
       - name: '[Logconvert](https://github.com/rsavela/logconvert)'
         date:
         start_date: 2023-01
@@ -121,12 +121,12 @@ cv:
 #        highlights:
 #          - Implemented using Flutter and Dart for iOS and Android.
 #          - Backend powered by Java Spring Boot and PostgreSQL.
-    languages:
+    Languages:
       - English (Native)
       - German (Professional Working Proficiency - CEFR B2)
 #      - number: French - Limited Proficiency (A2)
 #      - number: Russian - Limited Proficiency (A2)
-    certifications:
+    Certifications:
       - AWS Certified Solutions Architect - Professional (2023)
       - Amazon AWS Certified Solutions Architect - Associate (2023)
       - Amazon AWS Certified Developer - Associate (2021)
@@ -138,9 +138,7 @@ cv:
       - Amazon AWS Certified Advanced Networking - Specialty (2018)
       - Amazon AWS Certified Security - Specialty (2022)
       - Microsoft MCSE - Cloud Platform and Infrastructure (2017)
-    security_clearance:
-      - Secret
-      - Last Active 2015.
+
 #    any_section_title:
 #      - You can use any section title you want.
 #      - 'You can choose any entry type for the section: `TextEntry`, `ExperienceEntry`, `EducationEntry`, `PublicationEntry`, `BulletEntry`, `NumberedEntry`, or `ReversedNumberedEntry`.'
