@@ -91,7 +91,7 @@ cv:
           - 'Summa Cum Laude'
           - 'GPA: 4.0/4.0'
 
-    Skills:
+    skills:
       - name: Programming Languages
         keywords:
           - Python
