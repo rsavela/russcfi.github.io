@@ -17,7 +17,7 @@ cv:
       username: rsavela
   custom_connections:
   sections:
-    Overview:
+    overview:
       - Senior AI/ML and Cloud Architect with 15+ years of experience advising Fortune 500 customers, driving
         large-scale technology transformation. Proven track record of supporting eight-figure revenue impact through strategic
         technical leadership, AI/ML innovation, and secure, scalable architectures. Trusted advisor to executive stakeholders
@@ -27,7 +27,7 @@ cv:
         position: Field Solutions Architect
         date: 
         start_date: 2026-05
-        end_date: 
+        end_date: present
         location: Clearwater, FL
         summary: Automation, Continuous Integration, and Continuous Delivery Specialist.
         highlights:
