@@ -8,7 +8,7 @@ cv:
   location: Saint Petersburg, FL
   email: rsavela@pm.me
   photo: 
-  phone: +1 617 818 4641
+  phone: +1 617 818 4641 / +49 151 
   website: https://rsavela.github.io
   social_networks:
     - network: LinkedIn
@@ -92,16 +92,57 @@ cv:
           - 'GPA: 4.0/4.0'
 
     Skills:
-      - label: Programming Languages
-        details: Python, C/C++, BASH, SQL, Java, JavaScript
-      - label: AI/ML Tools
-        details: PyTorch, Keras, TensorFlow, Scikit-learn, AWS SageMaker, AWS Rekognition, AWS Comprehend, Foundation Models and LLMs
-      - label: Frameworks and Libraries
-        details: Flask, FastAPI, Pandas, NumPy, Seaborn, Plotly, React, Angular, Spring Boot, Flutter 
-      - label: Infrastructure and Cloud
-        details:  AWS, GCP, Azure, Kubernetes, Terraform, CloudFormation, CDK, Ansible, OpenShift
-      - label: DevOps Tools
-        details: Git, GitHub, GitLab, GitHub Actions, CodePipeline, Jenkins, Grafana, Docker
+      - name: Programming Languages
+        keywords:
+          - Python
+          - C/C++
+          - BASH
+          - SQL
+          - Java
+          - JavaScript
+      - name: AI/ML Tools
+        keywords:
+          - PyTorch
+          - Keras
+          - TensorFlow
+          - Scikit-learn
+          - AWS SageMaker
+          - AWS Rekognition
+          - AWS Comprehend
+          - Foundation Models and LLMs
+      - name: Frameworks and Libraries
+        keywords:
+          - Flask
+          - FastAPI
+          - Pandas
+          - NumPy
+          - Seaborn
+          - Plotly
+          - React
+          - Angular
+          - Spring Boot
+          - Flutter
+      - name: Infrastructure and Cloud
+        keywords:
+          - AWS
+          - GCP
+          - Azure
+          - Kubernetes
+          - Terraform
+          - CloudFormation
+          - CDK
+          - Ansible
+          - OpenShift
+      - name: DevOps Tools
+        keywords:
+          - Git
+          - GitHub
+          - GitLab
+          - GitHub Actions
+          - CodePipeline
+          - Jenkins
+          - Grafana
+          - Docker
     Projects:
       - name: Logconvert
         url: https://github.com/rsavela/logconvert
