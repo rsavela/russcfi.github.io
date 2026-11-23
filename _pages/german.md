@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: page
 title: german
-permalink: /
+permalink: /german/
 subtitle: Learning German.
 
 profile:
