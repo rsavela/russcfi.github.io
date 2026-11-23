@@ -8,8 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-The NARCO radios in our airplane were getting tired, and we got a great deal on some Garmin equipment. 
-
+The NARCO radios in our airplane were getting tired, and we got a great deal on some Garmin equipment.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -7,7 +7,7 @@ importance: 3
 category: fun
 ---
 
-I'm not a homelabber, but I do use plenty of software.  And I prefer self-hosting a lot of things.
+I'm not a homelabber, but I do use plenty of software. And I prefer self-hosting a lot of things.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

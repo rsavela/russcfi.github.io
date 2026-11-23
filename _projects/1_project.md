@@ -8,8 +8,7 @@ category: work
 related_publications: true
 ---
 
-I stared building a VANS RV-7 in 2023.  Hopefully, it will someday be completed.
-
+I stared building a VANS RV-7 in 2023. Hopefully, it will someday be completed.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

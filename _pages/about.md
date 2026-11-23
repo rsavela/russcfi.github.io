@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This is the personal website of Russ Savela.  I've had many personal websites over the last 30 years, but I always got to busy to maintain them. Perhaps this one will succeed where others failed.
+This is the personal website of Russ Savela. I've had many personal websites over the last 30 years, but I always got to busy to maintain them. Perhaps this one will succeed where others failed.
 
 I am a Flight Instructor and Commerical pilot, as well as technology specialist living in St Petersburg, FL.
 
