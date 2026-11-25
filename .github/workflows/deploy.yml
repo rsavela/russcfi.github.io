@@ -96,10 +96,17 @@ jobs:
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
 
-          echo "Checking ImageMagick..."
+           # Ensure user-installed Python executables are on PATH
+           export PATH="$HOME/.local/bin:$PATH"
+
+          # Verify dependencies before building
+          echo "Checking ImageMagick:"
+          which convert
           convert -version
 
-          echo "Checking Jupyter..."
+          echo "Checking Jupyter:"
+          which jupyter
+          which jupyter-nbconvert || true
           jupyter --version
 
           export JEKYLL_ENV=production
