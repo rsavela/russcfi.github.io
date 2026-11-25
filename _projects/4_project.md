@@ -4,7 +4,7 @@ title: Electronics Lab
 description: Tools of the trade for electronics work
 img:
 importance: 3
-category: fun
+category: work
 ---
 
 This is my lab for completing electronics work, or the less used side of my office.

@@ -4,7 +4,7 @@ title: Vans RV-7
 description: Building an airplane
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: aviation
 related_publications: true
 ---
 

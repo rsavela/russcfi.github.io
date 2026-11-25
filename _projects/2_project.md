@@ -4,7 +4,7 @@ title: Avionics Upgrade
 description: Updating the Avionics in a Beechcraft
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: aviation
 giscus_comments: true
 ---
 

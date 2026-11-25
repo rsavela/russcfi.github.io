@@ -4,7 +4,7 @@ title: The Homelab
 description: IT Support for the house
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: work
 ---
 
 I'm not a homelabber, but I do use plenty of software. And I prefer self-hosting a lot of things.
