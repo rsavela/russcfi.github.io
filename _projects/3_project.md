@@ -7,9 +7,9 @@ importance: 3
 category: aviation
 ---
 
-It took quite a while to assemble the tools for airplane building.  Here are the major ones.
+It took quite a while to assemble the tools for airplane building. Here are the major ones.
 
-There are lots of typical garage tools as well, like screwdrivers and wrenches.  I've left those out.
+There are lots of typical garage tools as well, like screwdrivers and wrenches. I've left those out.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,7 +21,6 @@ There are lots of typical garage tools as well, like screwdrivers and wrenches. 
 </div>
 
 Here are most of the specialty hand tools.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -41,8 +40,6 @@ Here are most of the specialty hand tools.
     Not used often, usually a caliper or ruler is good enough.
 </div>
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/workshop/DSC_8564.jpg" title="Pliers" class="img-fluid rounded z-depth-1" %}
@@ -60,7 +57,6 @@ Here are most of the specialty hand tools.
 <div class="caption">
     I have several of these.  I use a similar bit on a Ryobi electric screwdriver most of the time.
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

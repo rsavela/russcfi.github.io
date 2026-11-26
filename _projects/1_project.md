@@ -10,7 +10,6 @@ related_publications: true
 
 I stared building a VANS RV-7 in 2023. Hopefully, it will someday be completed.
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/workshop/DSC_8603.jpg" title="The Workshop" class="img-fluid rounded z-depth-1" %}

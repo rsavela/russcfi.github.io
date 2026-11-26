@@ -95,7 +95,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Install Jupyter
         run: |
@@ -114,7 +114,6 @@ jobs:
           which jupyter
           which jupyter-nbconvert
           jupyter-nbconvert --version
-
 
       - name: Install and Build 🔧
         run: |
@@ -136,7 +135,7 @@ jobs:
 
           export JEKYLL_ENV=production
           bundle exec jekyll build
-          
+
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
